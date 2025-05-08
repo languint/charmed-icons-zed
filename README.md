@@ -1,8 +1,6 @@
 <p align="center">
-  <p align="center">
-	<img src="assets/icon.png" alt="Logo" width="128" />
-  </p>
-  <h1 align="center"><b>Charmed Icons</b></h1>
+  <h1 align="center"><b>Charmed Icons (Zed)</b></h1>
+  <h1 align="center">A port of littensy's charmed icons for zed</h1>
 </p>
 
 <div align="center">

@@ -1,0 +1,7 @@
+id = "charmed-icons-theme"
+name = "Charmed Icons Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["Languint <longuint@proton.me>"]
+description = "A port of littensy's charmed icon theme to zed."
+repository = "https://github.com/languint/charmed-icons-zed"
